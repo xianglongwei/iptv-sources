@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 
 
-Updated at **Mon Nov 25 2024 14:14:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 25 2024 16:18:54 GMT+0000 (Coordinated Universal Time)**
