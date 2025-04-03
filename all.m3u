@@ -978,7 +978,7 @@ https://stream1.freetv.fun/dc21e372707b9972f27a406dba594c09c61f9a7d11edb39773fba
 #EXTINF:-1 tvg-name="ESKA Best Music TV" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/03/05/20150305051313099626_50.jpg" group-title="Entertainment",[HD]eska tv
 https://stream1.freetv.fun/5bb8e56c5d246aafe8f979ef229250c578cf09a37a73d2bc9fda00ec22286237.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="Sports",[HD]ESPN
-https://stream1.freetv.fun/a34cbb0734cfa4cc269f21b67d105ad0f962572248b111c9477c1fe37602f648.ctv
+https://stream1.freetv.fun/895783b69e69481387797c7c9d689d043a5dba624120c8fb132a7724984b543d.ctv
 #EXTINF:-1 tvg-name="ESPN 2" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png" group-title="Sports",[HD]ESPN 2
 https://stream1.freetv.fun/ea8a66cb3b10663490195c7c1788ea18e8a8ff9828b4777e05e095ccf2fd1c31.ctv
 #EXTINF:-1 tvg-name="EST TV" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175046544857_64.png" group-title="News",[BD]qwest tv
@@ -3127,6 +3127,8 @@ https://stream1.freetv.fun/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd
 https://stream1.freetv.fun/26867513b7f55113a68877d1621cb693f3a0215871841c667b1eb55924ebafa7.m3u8
 #EXTINF:-1 tvg-name="南昌新闻综合" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/3_8.jpg" group-title="News",[BD]浙江|新昌新闻综合
 https://stream1.freetv.fun/117353e7f349e9841ea7d79852cc8cb8fa4449dd2ddffa9bec27e2babfdba2f9.m3u8
+#EXTINF:-1 tvg-name="南昌都市" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/3_11.jpg" group-title="Other",[BD]南昌都市
+https://stream1.freetv.fun/fcc81b55de3ad34ee16a1abce3db6990617dda33f5333ab5a4286d955832cd5e.ctv
 #EXTINF:-1 tvg-name="南阳新闻综合" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/2_19.jpg" group-title="Other",[BD]原阳新闻综合频道
 https://stream1.freetv.fun/34035d18278d3b4ea7b4ed4f94547d75a3440e5f74490c99458d9e881c990bf2.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="News",[HD]台视新闻
