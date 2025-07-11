@@ -86,6 +86,5 @@
 | 80 | 经典电影 | IPv4 直链 | <rtp://239.3.1.195:9024> |
 | 81 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
 | 82 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
-| 83 | 中国交通 | IPv4 直链 | <rtp://239.3.1.199:9000> |
 
-Updated at **Fri Jul 11 2025 03:25:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 11 2025 04:34:25 GMT+0000 (Coordinated Universal Time)**
