@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -449,4 +449,4 @@
 | 443 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 444 | Ando TV | play.kankanlive.com | <http://play.kankanlive.com/live/1711956137852982.m3u8> |
 
-Updated at **Wed Dec 31 2025 08:25:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 31 2025 10:18:43 GMT+0000 (Coordinated Universal Time)**
